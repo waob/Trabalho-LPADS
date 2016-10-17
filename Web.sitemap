@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title=""  description="">
+        <siteMapNode url="frmvenda.aspx" title="Vendas"  description="" >
+    </siteMapNode>    
+        <siteMapNode url="" title="Cadastros"  description="" >
+        <siteMapNode url="frmcadcli.aspx" title="Clientes"  description="" />
+        <siteMapNode url="frmcadfunc.aspx" title="Funcionários"  description="" />
+        <siteMapNode url="frmcadprod.aspx" title="Produtos"  description="" />
+        </siteMapNode> 
+      
+          <siteMapNode url="" title="Relatórios"  description="" >
+          <siteMapNode url="frmrelatcli.aspx" title="Clientes"  description="" />
+          <siteMapNode url="frmrelatprod.aspx" title="Produtos"  description="" />
+          <siteMapNode url="frmrelatvendas.aspx" title="Vendas"  description="" />
+          </siteMapNode>
+
+
+    </siteMapNode>
+</siteMap>
